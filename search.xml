@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>沪铜跨期价差的季节性初探</title>
-      <link href="/2026/07/12/%E6%B2%AA%E9%93%9C%E8%B7%A8%E6%9C%9F%E4%BB%B7%E5%B7%AE%E7%9A%84%E5%AD%A3%E8%8A%82%E6%80%A7%E5%88%9D%E6%8E%A2-1/"/>
-      <url>/2026/07/12/%E6%B2%AA%E9%93%9C%E8%B7%A8%E6%9C%9F%E4%BB%B7%E5%B7%AE%E7%9A%84%E5%AD%A3%E8%8A%82%E6%80%A7%E5%88%9D%E6%8E%A2-1/</url>
+      <title>套利截至20260710存在的问题以及应对</title>
+      <link href="/2026/07/12/%E5%A5%97%E5%88%A9%E6%88%AA%E8%87%B320260710%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E5%BA%94%E5%AF%B9/"/>
+      <url>/2026/07/12/%E5%A5%97%E5%88%A9%E6%88%AA%E8%87%B320260710%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98%E4%BB%A5%E5%8F%8A%E5%BA%94%E5%AF%B9/</url>
       
-        <content type="html"><![CDATA[<h2 id="仓位控制非常重要"><a href="#仓位控制非常重要" class="headerlink" title="仓位控制非常重要"></a>仓位控制非常重要</h2><p>底仓35%+15%+15%+15%,也就是15张+15张+15张</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="存在问题"><a href="#存在问题" class="headerlink" title="存在问题"></a>存在问题</h2><p>1，执行问题，飞单问题；<br>2，深V处理问题；<br>3，仓位控制问题；</p><h2 id="解决对策"><a href="#解决对策" class="headerlink" title="解决对策"></a>解决对策</h2><p>1，对价拍，无缓冲；不挂单，卡住后5秒撤单；<br>2，快触发，仓位减半，慢离场；<br>3，区分日期，常规日15+10+10+10；敏感日10+12+10+10；</p>]]></content>
       
       
       <categories>
