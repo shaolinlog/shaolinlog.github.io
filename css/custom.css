@@ -1,0 +1,7 @@
+#footer {
+  background: #ffffff !important;
+  padding: 0.6rem 0 !important;
+}
+#footer:before {
+  background: transparent !important;
+}
