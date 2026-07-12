@@ -5,3 +5,46 @@
 #footer:before {
   background: transparent !important;
 }
+
+/* 侧边栏卡片标题(Contents、Recent Posts等) */
+.item-headline {
+  font-size: 15px !important;
+}
+
+/* 侧边栏"最新文章"列表里的标题和日期 */
+.aside-list-item .title {
+  font-size: 14px !important;
+}
+.aside-list-item time {
+  font-size: 12px !important;
+}
+
+/* 文章顶部大标题 */
+#post-info .post-title {
+  font-size: 25px !important;
+}
+
+/* 正文内的二级标题(## 生成的 H2) */
+#article-container h2 {
+  font-size: 19px !important;
+}
+
+/* 正文内的三级标题(### 生成的 H3,如果以后用到) */
+#article-container h3 {
+  font-size: 17px !important;
+}
+
+/* 文章顶部大标题 */
+#post-info .post-title {
+  font-size: 24px !important;
+}
+
+/* 正文内的二级标题(## 生成的 H2) */
+#article-container h2 {
+  font-size: 19px !important;
+}
+
+/* 正文内的三级标题(### 生成的 H3,如果以后用到) */
+#article-container h3 {
+  font-size: 17px !important;
+}
